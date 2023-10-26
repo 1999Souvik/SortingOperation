@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\bin\Debug\SortOperation.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\bin\Debug\SortOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\bin\Debug\SortOperation.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\obj\Debug\SortOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\obj\Debug\SortOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\obj\Debug\SortOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\SortOperation\obj\Debug\SortOperation.pdb
